@@ -2,7 +2,7 @@ import 'react-native-gesture-handler';
 import React, { useState } from 'react';
 import { Provider as PaperProvider } from 'react-native-paper';
 import AppLoading from 'expo-app-loading'
-import RecipesStack from './routes/RecipesStack';
+import RecipesStack from './components/routes/RecipesStack';
 import getRecipes from './awsS3Utilities/getRecipes';
 
 let recipes = [];

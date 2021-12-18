@@ -1,6 +1,6 @@
 import React from 'react';
-import Recipe from '../screens/Recipe';
-import Recipes from '../screens/Recipes';
+import Recipe from './Recipe';
+import Recipes from './Recipes';
 import { createStackNavigator } from 'react-navigation-stack';
 import { createAppContainer } from 'react-navigation';
 

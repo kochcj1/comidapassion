@@ -135,6 +135,7 @@ const styles = StyleSheet.create({
   }
 });
 
+// TODO: don't hardcode these file paths.
 // TODO: remember to add icons8 licensing information if and when this app is
 // actually released.
 const getCountryIcon = (countryName) => {

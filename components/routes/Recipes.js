@@ -1,5 +1,5 @@
 import React from 'react';
-import RecipeCard from '../components/RecipeCard';
+import RecipeCard from '../RecipeCard';
 import { StyleSheet, View, FlatList } from 'react-native';
 
 export default function Recipes({ navigation }) {
