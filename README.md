@@ -19,7 +19,7 @@ https://user-images.githubusercontent.com/20493743/146639015-31c24492-8db3-4aa0-
 1. `git clone` this repository.
 1. `cd` into the directory that was created.
 1. Pull in dependencies using `npm install`.
-1. Set up a S3 bucket on AWS called "comidapassion" with a directory called "recipes". Each recipe should be specified in this directory as a JSON file (see below).
+1. Set up an S3 bucket on AWS called "comidapassion" with a directory called "recipes". Each recipe should be specified in this directory as a JSON file (see below).
 1. Add a file to the project called `aws_s3_config.json` and specify the credentials for accessing your AWS S3 bucket (see below).
 1. Run the app using `expo start`.
 
@@ -45,7 +45,7 @@ The policy for your bucket should look something like this:
 }
 ```
 
-Each recipe's JSON file should be formatted like this:
+Each recipe's JSON file should look something like this:
 ```json
 {
   "name": "Nasi Goreng",
