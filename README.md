@@ -9,11 +9,11 @@ In total, I spent approximately 35 hours developing this app, including the time
 
 ## Demo 1: Choosing A Photo And Viewing A Recipe
 
-https://user-images.githubusercontent.com/20493743/146639013-7f166342-2224-49be-8d37-9055612ec5a0.mp4
+https://user-images.githubusercontent.com/20493743/169931974-be2f1f1c-32a0-4808-bab9-20845ba6b331.mp4
 
 ## Demo 2: Images Are Still Present On App Reload
 
-https://user-images.githubusercontent.com/20493743/146639015-31c24492-8db3-4aa0-823c-c0d8192df246.mov
+https://user-images.githubusercontent.com/20493743/169932007-8ec8d48a-16d9-4289-861a-50aa55941bff.mp4
 
 ## Setup
 1. `git clone` this repository.
